@@ -1,0 +1,2 @@
+
+python3 graph-attack-pprl-origin.py data/pfizer.csv 0 , True [1,2,3,4,5] 798 data/pfizer.csv 0 , True [1,2,3,4,5] 798 2 False dice True bf rh 15 500 clk none [] 100 500 5 dice
